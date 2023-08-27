@@ -1,7 +1,6 @@
 
 Topics:
 
-
   Cloud Database Connection
 
   .env / Dotenv,
@@ -23,3 +22,11 @@ Topics:
 
 Task:
   Day - 38: Task - Deployment practice
+
+Next Session:
+
+  Try covering topics like,
+    Functions:
+      Bind, Apply, Call Fucntion, 
+    Concepts for Function Calls:
+      Throttling and debounce
