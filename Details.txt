@@ -20,3 +20,6 @@ Topics:
       .env --> VITE_SOME_VAR=<VALUE>
 
   Deployment for Frontend Backend and Database
+
+Task:
+  Day - 38: Task - Deployment practice
