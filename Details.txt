@@ -1,0 +1,22 @@
+
+Topics:
+
+
+  Cloud Database Connection
+
+  .env / Dotenv,
+
+  Mongo URL/URI --> Mongo DB Connection String
+
+  Deployment for Backend and Database
+
+  Front-End Backend Connection
+
+    CORS  ---> Cross Origin Resource Sharing
+
+      Need to make the APIs complaint for CORS
+    
+    Vite Env Variable:
+      .env --> VITE_SOME_VAR=<VALUE>
+
+  Deployment for Frontend Backend and Database
